@@ -1,4 +1,4 @@
-ORFS.py
+Program ORFS.py
 Authors: 
 Mills, Mary (MM), Panossian, Stephen (SP), Sparklin, Ben (BS), Unnikumaran, Yekaterina (YU)
 BIFS 617 9040 Advanced Bioinformatics Summer 2020

@@ -1,7 +1,6 @@
 Program ORFS.py
-Authors: 
-Mills, Mary (MM), Panossian, Stephen (SP), Sparklin, Ben (BS), Unnikumaran, Yekaterina (YU)
-BIFS 617 9040 Advanced Bioinformatics Summer 2020
+Authors: Mills, Mary (MM), Panossian, Stephen (SP), Sparklin, Ben (BS), Unnikumaran, Yekaterina (YU)
+for BIFS 617 9040 Advanced Bioinformatics Summer 2020
 
 Purpose: To find all the open reading frames (ORFs) in an input DNA sequence in FASTA format
 Version: 0.0 / SP (main)
